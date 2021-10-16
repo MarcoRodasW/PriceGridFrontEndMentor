@@ -50,6 +50,8 @@ body{
     grid-template-rows: repeat(2, 1fr);
     box-shadow: 0 0 50px -14px hsl(0deg 0% 0% / 27%);
     background-color:black;
+    overflow: hidden;
+    border-radius: .7rem;
 }
 
 .flex{
